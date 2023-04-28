@@ -8,11 +8,11 @@ SpaceX is the most successful company of the commercial space age, making space 
 
 
 ## Tasks performed
-+Data collection using SpaceX Rest API
-+Data collection using Web scrapping from wikipedia
--Data Wrangling
--Exploratory Data Analysis with data visualization
--Exploratory Data Analysis with SQL
--Interactive Visual Analysis with Folium
--Machine Learning Prediction
--Dashboard creation  
+* Data collection using SpaceX Rest API
+* Data collection using Web scrapping from wikipedia
+* Data Wrangling
+* Exploratory Data Analysis with data visualization
+* Exploratory Data Analysis with SQL
+* Interactive Visual Analysis with Folium
+* Machine Learning Prediction
+* Dashboard creation  
